@@ -1,0 +1,11 @@
+{
+  "subscriptions": [
+    {
+      "id": "maj4lx",
+      "url": "https://www.vinted.fr/vetements?size_id[]=208&catalog[]=79&price_to=10&currency=EUR&order=newest_first&brand_id[]=53&brand_id[]=362&brand_id[]=304&brand_id[]=88&brand_id[]=94",
+      "channelID": "945695840272543824"
+    }
+  ],
+  "is_first_sync": false,
+  "last_item_ts_maj4lx": 1643992809000
+}
